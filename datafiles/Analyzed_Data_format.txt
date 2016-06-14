@@ -1,0 +1,37 @@
+32 columns in the output data from GSoundAnalyzer, 1st 16 columns using velocity data, 2nd 16 columns using acceleration data
+
+1 filename 
+2 v_HalfHeight(m/s) 
+3 1st_width(index) 
+4 2nd_width(index) 
+5 1st_index_1stHalfHeight 
+6 1st_height_1stHalfHeight(m/s) 
+7 1st_index_1stPeak 
+8 1st_height_1stPeak(m/s) 
+9 1st_index_2ndHalfHeight 
+10 1st_height_2ndHalfHeight(m/s) 
+11 2nd_index_1stHalfHeight 
+12 2nd_height_1stHalfHeight(m/s) 
+13 2nd_index_2ndPeak 
+14 2nd_height_2ndPeak(m/s) 
+15 2nd_index_2ndHalfHeight 
+16 2nd_height_2ndHalfHeight(m/s) 
+
+17 filename 
+18 v_HalfHeight(m/s) 
+19 1st_width(index) 
+20 2nd_width(index) 
+21 1st_index_1stHalfHeight 
+22 1st_height_1stHalfHeight(m/s^2) 
+23 1st_index_1stPeak 
+24 1st_height_1stPeak(m/s^2) 
+25 1st_index_2ndHalfHeight 
+26 1st_height_2ndHalfHeight(m/s^2) 
+27 2nd_index_1stHalfHeight 
+28 2nd_height_1stHalfHeight(m/s^2) 
+29 2nd_index_2ndPeak 
+30 2nd_height_2ndPeak(m/s) 
+31 2nd_index_2ndHalfHeight 
+32 2nd_height_2ndHalfHeight(m/s^2) 
+
+Sensitivity: [9.645, 99.65] mV/ms^-2
